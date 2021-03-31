@@ -18,4 +18,3 @@
 
 # miniaudio: https://github.com/mackron/miniaudio
 # Get miniaudio.h & miniaudio_engine.h from the link above & place at the following location.
-audioplayer/miniaudio/*
